@@ -10,6 +10,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects: (to be added later...)</h2>
 
+- <b>Incident Response</b>
+  - [Respond to a Phishing Incident Using a Playbook]
+  - [Perform a Query with Splunk]
+
 - <b>Active Directory</b>
   - [Setting Up AD Lab]
   - [Attacking]
