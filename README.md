@@ -12,6 +12,9 @@
 - <b>Incident Response & Investigation</b>
   - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
   - Perform Queries with Splunk & Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
+    
+- <b>Security Audit</b>
+  - Conduct a Controls Assessment & Complliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
 
 - <b>Active Directory</b>
   - [Setting Up AD Lab]
