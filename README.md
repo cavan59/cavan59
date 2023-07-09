@@ -11,7 +11,7 @@
 <h2>👨‍💻 Cybersecurity Projects: (to be added later...)</h2>
 
 - <b>Incident Response</b>
-  - <a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Respond to a Phishing Incident Using a Playbook</a>
+  - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
   - Perform a Query with Splunk
 
 - <b>Active Directory</b>
