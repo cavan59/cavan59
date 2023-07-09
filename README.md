@@ -12,7 +12,7 @@
 
 - <b>Incident Response</b>
   - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
-  - Perform a Queries with Splunk and Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
+  - Perform Queries with Splunk and Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
 
 - <b>Active Directory</b>
   - [Setting Up AD Lab]
