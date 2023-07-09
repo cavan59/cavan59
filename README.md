@@ -3,10 +3,9 @@
 <h2>:scroll: Education & Certifications: (to be added later...)</h2>
 
 - <b>Bachelor of Science in Information Systems</b>
-- <b>TCM Practical Junior Penetration Tester (PJPT) (In-Progress)</b>
-  - [Credential#]
+- <b>TCM Practical Ethical Hacker Course (In-Progress)</b>
+- <b>Google's Professional Cybersecurity Certificate Course (In-Progress)</b>
 - <b>CompTIA Security+ (In-Progress)</b>
-  - [Credential#]
 
 <h2>👨‍💻 Cybersecurity Projects: (to be added later...)</h2>
 
