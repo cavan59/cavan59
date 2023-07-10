@@ -21,7 +21,7 @@
   - tcpdump
     
 - <b>Security Audit</b>
-  - Conduct a Controls Assessment & Complliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
+  - Conduct a Controls Assessment & Compliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
 
 - <b>Active Directory</b>
   - Install Windows Server 2022 and Active Directory Domain Services (<a href="https://medium.com/@cavan.fowler/installing-windows-server-2022-active-directory-domain-services-6b5e4f13c2f8">Blog post</a>)
