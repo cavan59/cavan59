@@ -7,7 +7,7 @@
 - <b>Google's Professional Cybersecurity Certificate Course (In-Progress)</b>
 - <b>CompTIA Security+ (In-Progress)</b>
 
-<h2>👨‍💻 Cybersecurity Projects: (WIP)</h2>
+<h2>👨‍💻 Projects: (WIP)</h2>
 
 - <b>Incident Response & Investigation</b>
   - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
@@ -21,8 +21,8 @@
   - Conduct a Controls Assessment & Complliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
 
 - <b>Active Directory</b>
-  - [Setting Up AD Lab]
-  - [Attacking]
+  - Manage Active Directory on Windows Server 2022 (in-progress)
+  - Conduct an Internal Penetration Test on Active Directory (in-progress)
 
 - <b>Bash</b>
   - [Ping Sweeper ]
