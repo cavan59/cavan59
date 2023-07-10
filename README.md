@@ -14,29 +14,27 @@
   - Perform Queries with Splunk & Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
  
 - <b>Packet Analysis</b>
-  - [Wireshark]
-  - [tcpdump]
+  - Wireshark
+  - tcpdump
     
 - <b>Security Audit</b>
   - Conduct a Controls Assessment & Complliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
 
 - <b>Active Directory</b>
   - Install Windows Server 2022 and Active Directory Domain Services (<a href="https://medium.com/@cavan.fowler/installing-windows-server-2022-active-directory-domain-services-6b5e4f13c2f8">Blog post</a>)
-  - Manage Active Directory on Windows Server 2022 (in-progress)
-  - Conduct an Internal Penetration Test on Active Directory (in-progress)
+  - Manage Active Directory on Windows Server 2022 (In-Progress)
+  - Conduct an Internal Penetration Test on Active Directory (In-Progress)
 
 - <b>Bash</b>
-  - [Ping Sweeper ]
+  - Ping Sweeper
     
 - <b>Python</b>
-  - [Port Scanner]
-
-<h2>👨‍💻 Senior Capstone Project: (to be added later...)</h2>
-
-- <b>Smart Travel Itinerary</b>
+  - Port Scanner
 
 <h2>📺 YouTube Videos (to be added later...)</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/cavan-fowler59/">My LinkedIn Profile</a>
+- <a href="https://www.linkedin.com/in/cavan-fowler59/">My LinkedIn Profile</a>
+- <a href="https://medium.com/@cavan.fowler">My Blog Posts</a>
+  
