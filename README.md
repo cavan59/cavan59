@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cavan! <br/> <a href="https://www.linkedin.com/in/cavan-fowler59/">B.S. Information Systems Graduate, GRC Intern, Red Team Enthusiast</a></h1>
+<h1>Hi, I'm Cavan! <br/> <a href="https://www.linkedin.com/in/cavan-fowler59/">B.S. Information Systems Graduate, Cybersecurity Enthusiast</a></h1>
 
 <h2>:scroll: Education & Certifications: (WIP)</h2>
 
