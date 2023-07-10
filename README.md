@@ -33,9 +33,7 @@
 - <b>Python</b>
   - Port Scanner
 
-<h2>📺 YouTube Videos (to be added later...)</h2>
-
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 - <a href="https://www.linkedin.com/in/cavan-fowler59/">My LinkedIn Profile</a>
 - <a href="https://medium.com/@cavan.fowler">My Blog Posts</a>
