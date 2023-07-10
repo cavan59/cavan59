@@ -13,6 +13,9 @@
   - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
   - Perform Queries with Splunk & Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
  
+- <b>Penetration Testing</b>
+  - Conduct an Internal Penetration Test on Active Directory (In-Progress through TCM Practical Ethical Hacker Course)
+ 
 - <b>Packet Analysis</b>
   - Wireshark
   - tcpdump
@@ -23,7 +26,6 @@
 - <b>Active Directory</b>
   - Install Windows Server 2022 and Active Directory Domain Services (<a href="https://medium.com/@cavan.fowler/installing-windows-server-2022-active-directory-domain-services-6b5e4f13c2f8">Blog post</a>)
   - Manage Active Directory on Windows Server 2022 (In-Progress)
-  - Conduct an Internal Penetration Test on Active Directory (In-Progress)
 
 - <b>Bash</b>
   - Ping Sweeper
