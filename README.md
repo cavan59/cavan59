@@ -21,7 +21,7 @@
   - Conduct a Controls Assessment & Complliance Checklist (<a href="https://drive.google.com/drive/folders/1h6ImCVgDTXCHCa159iMWzvzn9xwNvQTZ?usp=sharing">Google Drive</a>)
 
 - <b>Active Directory</b>
-  - Installing Windows Server 2022 and Active Directory Domain Services 
+  - Installing Windows Server 2022 and Active Directory Domain Services (<a href="https://medium.com/@cavan.fowler/installing-windows-server-2022-active-directory-domain-services-6b5e4f13c2f8">Blog post</a>)
   - Manage Active Directory on Windows Server 2022 (in-progress)
   - Conduct an Internal Penetration Test on Active Directory (in-progress)
 
