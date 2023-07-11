@@ -32,7 +32,7 @@
   - Ping Sweeper
 
 - <b>SQL</b>
-  - Apply Filters to SQL Queries to Conduct Investigations
+  - Apply Filters to SQL Queries to Conduct Investigations (<a href="https://medium.com/@cavan.fowler/apply-filters-to-sql-queries-to-conduct-investigations-bc4b869087e9">Blog post</a>)
     
 - <b>Python</b>
   - Port Scanner
