@@ -13,9 +13,6 @@
   - Respond to a Phishing Incident Using a Playbook (<a href="https://medium.com/@cavan.fowler/respond-to-phishing-incident-using-playbook-c054b6f8dff">Blog post</a>)
   - Perform Queries with Splunk & Chronicle (<a href="https://medium.com/@cavan.fowler/perform-a-query-with-splunk-49c2eda9b333">Blog post</a>)
  
-- <b>Penetration Testing</b>
-  - Conduct an Internal Penetration Test on Active Directory (In-Progress through TCM Practical Ethical Hacker Course)
- 
 - <b>Packet Analysis</b>
   - Wireshark
   - tcpdump
