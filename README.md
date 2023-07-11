@@ -5,7 +5,6 @@
 - <b>Bachelor of Science in Information Systems</b>
 - <b>TCM Practical Ethical Hacker Course (In-Progress)</b>
 - <b>Google's Professional Cybersecurity Certificate (In-Progress)</b>
-- <b>CompTIA Security+ (In-Progress)</b>
 
 <h2>👨‍💻 Projects:</h2>
 
