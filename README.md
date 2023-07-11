@@ -27,8 +27,12 @@
   - Install Windows Server 2022 and Active Directory Domain Services (<a href="https://medium.com/@cavan.fowler/installing-windows-server-2022-active-directory-domain-services-6b5e4f13c2f8">Blog post</a>)
   - Manage Active Directory on Windows Server 2022 (In-Progress)
 
-- <b>Bash</b>
+- <b>Linux</b>
+  - Manage File Permissions in Linux
   - Ping Sweeper
+
+- <b>SQL</b>
+  - Apply Filters to SQL Queries to Conduct Investigations
     
 - <b>Python</b>
   - Port Scanner
