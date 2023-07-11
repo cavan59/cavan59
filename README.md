@@ -28,7 +28,7 @@
   - Manage Active Directory on Windows Server 2022 (In-Progress)
 
 - <b>Linux</b>
-  - Manage File Permissions in Linux
+  - Manage File Permissions in Linux (<a href="https://medium.com/@cavan.fowler/manage-file-permissions-in-linux-c242db7ffd19">Blog post</a>)
   - Ping Sweeper
 
 - <b>SQL</b>
