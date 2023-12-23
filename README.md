@@ -3,8 +3,9 @@
 <h2>:scroll: Education & Certifications:</h2>
 
 - <b>Bachelor of Science in Information Systems</b>
+- <b>Google Cybersecurity Certification</b>
 - <b>TCM Practical Ethical Hacker Course (In-Progress)</b>
-- <b>Google's Professional Cybersecurity Certificate (In-Progress)</b>
+
 
 <h2>👨‍💻 Projects:</h2>
 
