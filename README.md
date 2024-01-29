@@ -4,7 +4,7 @@
 
 - <b>Bachelor of Science in Information Systems</b>
 - <b>Google Cybersecurity Certification</b>
-- <b>CompTIA Security+ (In-Progress)</b>
+- <b>CompTIA Security+</b>
 - <b>TCM's Practical Junior Pentetration Tester (In-Progress)</b>
 
 
